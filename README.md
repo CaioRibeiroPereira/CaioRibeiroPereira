@@ -50,11 +50,17 @@ Apresento os códigos bases do meu portfólio.
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center"> <!-- Total de Commits --> <img src="https://img.shields.io/badge/Commits-Ativos-blue?style=for-the-badge"> <!-- Repositórios Públicos --> <img src="https://img.shields.io/badge/Repositórios-Ativos-green?style=for-the-badge"> <!-- Seguidores --> <img src="https://img.shields.io/badge/Seguidores-GitHub-orange?style=for-the-badge">
+<div align="center">
+  <!-- Total de Commits -->
+  <img src="https://img.shields.io/badge/Commits-Ativos-blue?style=for-the-badge">
+  <!-- Repositórios Públicos -->
+  <img src="https://img.shields.io/badge/Repositórios-Ativos-green?style=for-the-badge"> 
+  <!-- Seguidores --> <img src="https://img.shields.io/badge/Seguidores-GitHub-orange?style=for-the-badge">
 
 <br><br>
 
-<!-- Badge do perfil --> <a href="https://github.com/caioribeiropereira"> <img src="https://github.com/caioribeiropereira.png" width="200" style="border-radius: 12px;"> </a> </div>
+<!-- Badge do perfil -->
+<a href="https://github.com/caioribeiropereira"> <img src="https://github.com/caioribeiropereira.png" width="200" style="border-radius: 12px;"> </a> </div>
 ---
 
 ## 🌐 Conecte-se comigo
